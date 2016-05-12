@@ -59,7 +59,7 @@ else
 	adduser $USERNAME $GROUP
 fi
 
-/usr/bin/mysql_secure_installation
+#/usr/bin/mysql_secure_installation
 
 /data/Wing/bin/setup/setup.sh
 
